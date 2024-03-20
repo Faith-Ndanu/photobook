@@ -1,0 +1,197 @@
+#Navbar{
+display: flex;
+gap: 8%;
+font-size: x-large;
+justify-content: space-between;
+margin-top: 30px;
+}
+#home{
+    width: 30px;
+    height: 40px;
+    display: flex;
+
+    gap: 3px;
+
+}
+#button{
+    text-align: center;
+    margin-right: 90px;
+    
+}
+#intro{
+    display: flex;
+    gap: 40px;
+    text-align: center;
+    margin-left: 250px;
+
+    
+}
+#login{
+    text-align: right;
+    display: flex;
+    gap: 35px;
+}
+
+button{
+    background-color: cornflowerblue;
+    width: 200px;
+    border-radius: 20px;
+    height: 40px;
+    margin: 30px;
+}
+#text{
+    text-align: center;
+    font-size: xx-large;
+    margin-right: 180px;
+}
+#text1{
+    font-size: x-large;
+    text-align: center;
+}
+#text2{
+    text-align: right;
+}
+#content{
+    display: flex;
+    justify-content: space-between;
+}
+#passage{
+    text-align: center;
+    font-size: xx-large;
+}
+#span{
+    color: rgb(11, 11, 236);
+}
+#google{
+    display: flex;
+    font-size: xx-large;
+    text-align: center;
+    gap: 7%;
+    margin-left: 180px;
+}
+#container{
+    font-size: x-large;
+
+}
+  #luxuries{
+    display: flex;
+    justify-content: space-between;
+    font-size: x-large;
+  }  
+#agentsupport{
+    display: flex;
+    font-size: xx-large;
+    gap: 7%;
+}
+#container3{
+    font-size: x-large;
+    text-align: center;
+}
+#container4{
+    display: flex;
+    font-size: x-large;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+#container5{
+  font-size: x-large; 
+  text-align: center;
+}
+#container6{
+    display: flex;
+    justify-content: center;
+    gap: 7%;
+}
+
+
+#call{
+    display: flex;
+    width: 30px;
+    height: 30px;
+    gap: 20px;
+}
+#email{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    gap: 20px;
+}
+#foot1{
+    display: flex;
+    width: 40px;
+    height: 40px;
+    gap: 30px;
+}
+#footerimage{
+    width: 30px;
+    margin-left: 10px;
+}
+
+#Footer{
+    display: flex;
+    gap: 250px;
+}
+
+@media only screen and (max-width:768px){
+    body{
+        background-color: blue;
+
+    } 
+    #Navbar{
+       font-size: x-small;
+
+     }
+       intro{
+    display: grid;
+        
+       }
+     #home{
+        width: 30px;
+        height: 40px;
+        display: flex;
+        gap: 3px;
+    
+    }
+    #Footer{
+        display: grid;
+        gap: 2%;
+}
+#footerimage{
+    width: 2px;
+    height: 10px;
+    margin-top: 80px;
+
+}
+#foot1{
+    display: grid;
+    width: 40px;
+    height: 40px;
+    gap: 2%;
+}
+#container6{
+    display: grid;
+    gap: 2%;
+}
+
+#luxuries{
+    display: grid;
+   
+    font-size: x-small;
+  }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

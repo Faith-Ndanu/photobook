@@ -1,6 +1,9 @@
 body{
     margin: 30px auto;
-    background-color: rgb(252, 205, 239);
+    background-color: rgb(238, 227, 227);
+    
+    margin: 90px;
+    padding: 60px 60px;
     
 }
 #navbar{
@@ -20,12 +23,12 @@ ul{
    
 }
 ul li a img{
-    height: 160px;
-    width: 160px;
+    height: 200px;
+    width: 200px;
     display: block;
     padding: 32px;
     box-shadow: 10px 10px 14px black;
-    transform: rotate(-10deg);
+    transform: rotate(10deg);
     
 }
 ul li{
