@@ -132,58 +132,6 @@ button{
     gap: 250px;
 }
 
-@media only screen and (max-width:768px){
-    body{
-        background-color: blue;
-
-    } 
-    #Navbar{
-       font-size: x-small;
-
-     }
-       intro{
-    display: grid;
-        
-       }
-     #home{
-        width: 30px;
-        height: 40px;
-        display: flex;
-        gap: 3px;
-    
-    }
-    #Footer{
-        display: grid;
-        gap: 2%;
-}
-#footerimage{
-    width: 2px;
-    height: 10px;
-    margin-top: 80px;
-
-}
-#foot1{
-    display: grid;
-    width: 40px;
-    height: 40px;
-    gap: 2%;
-}
-#container6{
-    display: grid;
-    gap: 2%;
-}
-
-#luxuries{
-    display: grid;
-   
-    font-size: x-small;
-  }  
-
-
-
-
-
-
 
 
 
