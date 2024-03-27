@@ -59,8 +59,8 @@ text-align: center;
 }
 
 
-/*@media  only screen and (max-width: 576px){
-    ul li a img{
+@media  only screen and (max-width: 576px){
+  #headshots{
 height: 200px;
 width: 200px;
 display: block;
